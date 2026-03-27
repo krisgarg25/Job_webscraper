@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://krisgarg.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-krisgarg.in-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-krisgarg.in-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
