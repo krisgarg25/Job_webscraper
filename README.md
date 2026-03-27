@@ -1,7 +1,9 @@
 # 🕵️ Job Crawler & Scraper API
 
 <p align="center">
-  🌐 <a href="https://krisgarg.in" target="_blank">https://krisgarg.in</a>
+  <a href="https://krisgarg.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-krisgarg.in-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
